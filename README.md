@@ -1,1 +1,1 @@
-# Multiprocessing_ArrayAverage
+# Creating a c program that forks into two processes and then each half of the array is calculated by the parent and child process. The child pipes it's output to the parent and then these are added together and then the whole array output is then computed. 
